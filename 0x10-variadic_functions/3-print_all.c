@@ -45,6 +45,6 @@ default:
 		}
 	}
 
-ntf("\n");
+	printf("\n");
 	va_end(list);
 }
